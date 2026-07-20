@@ -9,8 +9,6 @@
     <p>วันที่ก่อตั้ง: {{ $data }} </p>
   <hr>  
 
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatem eveniet, quis odit architecto illum dicta
-        earum totam aliquam id, corrupti consectetur delectus corporis sapiente minus. Amet optio inventore ipsa ut!
-    </p>
+   
 
 @endsection
